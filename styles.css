@@ -6,7 +6,10 @@
 .menu{
     font-family: "Story Script",serif;
     font-size: 14px;
-    background:rgb(164, 168, 166);
+    background: url(acd333c785a4579e7313d4800059edee.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .menu-group-heading{
     margin:0;
